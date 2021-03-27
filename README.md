@@ -1,6 +1,6 @@
 
 
 
-Multi doc combine
+# Multi doc combinter
 
-多doc文件合并工具
+多document文档合并脚本
